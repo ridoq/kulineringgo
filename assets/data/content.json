@@ -1,0 +1,114 @@
+{
+    "content" : [
+        {
+            "judul" : "Lupis Kraksaan",
+            "gambar" : "lupis.jpg",
+            "deskripsi" : "Jl. Raya Pantura No.180, Patokan, Kec. Kraksaan, Kab.Probolinggo",
+            "harga":"Rp5.000,00 / Porsi"
+        },
+        {
+            "judul" : "Soto Kraksaan",
+            "gambar" : "sotoKraksaan.jpg",
+            "deskripsi" : "Jl. Mayjend Sutoyo No. 10, Patokan, Kec. Kraksaan, Kab. Probolinggo",
+            "harga":"Rp12.000,00 / Porsi"
+        },
+        {
+            "judul" : "Kepiting Olok",
+            "gambar" : "kepitingOlok.png",
+            "deskripsi" : "Jl. Raya Panglima Sudirman No. 341, Kota probolinggo",
+            "harga":"Rp60.000,00 / Porsi"
+        },
+        {
+            "judul" : "Anggur prabu Bestari",
+            "gambar" : "anggurPrabuBestari.jpg",
+            "deskripsi" : "Jl. Raya Panglima Sudirman, Mangunharjo, Kec. Mayangan, Kota Probolinggo",
+            "harga":"Rp35.000,00"
+        },
+        {
+            "judul" : "Ketan Kratok",
+            "gambar" : "ketanKratok.jpg",
+            "deskripsi" : "Jl. Dr.Sutomo, Tisnonegaran, Kec. Kanigaran, Kota Probolinggo",
+            "harga":"Rp2.500,00 / Porsi"
+        },
+        {
+            "judul" : "Mangga Arumanis",
+            "gambar" : "manggaArumanis.jpg",
+            "deskripsi" : "Sentul, Kec. gading, Kab. Probolinggo",
+            "harga":"Rp10.000,00 / Kg"
+        },
+        {
+            "judul" : "Nasi Campur Nyak Nyong",
+            "gambar" : "nasiCampurNyakNyong.jpg",
+            "deskripsi" : "Jl. WR. Supratman, Mangunharjo, Kec. Mayangan, Kota Probolinggo",
+            "harga":"Rp12.000,00 / Porsi"
+        },
+        {
+            "judul" : "Nasi Glepungan",
+            "gambar" : "nasiGlepungan.jpg",
+            "deskripsi" : "Kanigaran, Kec. Kanigaran, Kota Probolinggo",
+            "harga":"Rp10.000,00 / Porsi"
+        },
+        {
+            "judul" : "Nasi Jagung Merpati",
+            "gambar" : "nasijagungMerpati.jpg",
+            "deskripsi" : "JJl. Sunan Kalijogo, Mayangan, Kota Probolinggo",
+            "harga":"Rp7.000,00 / Porsi"
+        },
+        {
+            "judul" : "Rawon Nguling",
+            "gambar" : "rawonNguling.jpg",
+            "deskripsi" : "Jl. Raya Tongas, Tongas,  Kab. Probolinggo",
+            "harga":"Rp22.000,00 / Porsi"
+        },
+        {
+            "judul" : "Sirup Pokak",
+            "gambar" : "sirupPokak.jpeg",
+            "deskripsi" : "Kerpangan, Kec. Leces, Kab. Probolinggo",
+            "harga":"Rp19.000,00"
+        },
+        {
+            "judul" : "Suweg Lapis Genggong",
+            "gambar" : "suwegLapisGenggong.jpg",
+            "deskripsi" : "Pajarakan, Gerojokan, Karangbong, Kec. Pajarakan, Kab. Probolinggo",
+            "harga":"Rp33.000,00"
+        }
+    ],
+    "rekomen" : [
+        {
+            "judul" : "Mie Gacoan",
+            "gambar" : "mieGacoan.jpeg",
+            "deskripsi" : "Jl. Suroyo No. 19, Kanigaran, Kota Probolinggo",
+            "harga":"Rp14.000,00 / Porsi"
+        },
+        {
+            "judul" : "Bakso Permata",
+            "gambar" : "baksoPermata.jpg",
+            "deskripsi" : "Jl. Raya Panglima Sudirman No.161, Patokan, Kec. Kraksaan, Kab.Probolinggo",
+            "harga":"Rp12.000,00 / Porsi"
+        },
+        {
+            "judul" : "Capcin BKS",
+            "gambar" : "capcinBKS.jpeg",
+            "deskripsi" : "Jati, Kec. Mayangan, Kota Probolinggo",
+            "harga":"Rp5.000,00"
+        },
+        {
+            "judul" : "Mie Dower",
+            "gambar" : "mieDower.png",
+            "deskripsi" : "Jl. Diponegoro No.37, Sidomukti, Kec. Kraksaan, Kab. Probolinggo",
+            "harga":"Rp9.500,00 / Porsi"
+        },
+        {
+            "judul" : "Kebab Ali Baba",
+            "gambar" : "kebab.jpeg",
+            "deskripsi" : "Jl. Raya Panglima Sudirman No.234, Flamboyan, Kec. Kraksaan, Kab. Probolinggo",
+            "harga":"Rp12.000,00 / Porsi"
+        },
+        {
+            "judul" : "Rujak Cingur Bu Rachmat",
+            "gambar" : "rujakCingur.jpg",
+            "deskripsi" : "Bulu Wetan, Bulu, Kec. Kraksaan, Kab. Probolinggo",
+            "harga":"Rp15.000,00 / Porsi"
+        }
+    ]
+}
